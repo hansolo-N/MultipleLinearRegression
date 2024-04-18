@@ -1,6 +1,5 @@
 ## Objective
-The objective of this project is to build a multiple linear regression model to predict profits based on 50 startup businesses and their expenditures in various
-namely R&D spend, administration and Marketing spend.
+The objective of this project is to build a multiple linear regression model to predict expected profits based on 50 startup businesses and their expenditures in various budgets, namely R&D spend, administration and Marketing spend.
 
 ## Methodology
 1. **Data Preprocessing**:
